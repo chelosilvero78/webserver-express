@@ -17,7 +17,7 @@ app.set('view engine', 'hbs');
 app.get('/', (req, res) => {
 
     res.render('home', {
-        nombre: 'Andrea Carolina \u2764'
+        nombre: 'Andrea Carolina Benegas merlo \u2764'
     });
 });
 
